@@ -8,7 +8,7 @@ class App < Sinatra::Base
   end
 
   post '/user_input' do
-    
+
   end
 
 end
