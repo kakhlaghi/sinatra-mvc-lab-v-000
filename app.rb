@@ -4,7 +4,7 @@ class App < Sinatra::Base
 
   get '/' do
     pl = PigLatinizer.new
-    @user_input = params[:user_phrase]
+    
     erb :user_input
   end
 
