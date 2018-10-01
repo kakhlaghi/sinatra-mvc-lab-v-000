@@ -6,4 +6,6 @@ class PigLatinizer
 
   def piglatin_word(inp_string)
 
+  end
+
 end
